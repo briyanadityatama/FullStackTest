@@ -1,16 +1,3 @@
-# vue-s3-dropzone
-
-> Vue 2.0 dropzone component uploads files to AWS S3 serverlessly.
-
-## Overview
-
-- A Vue.js 2.0 component wrapping [Dropzone.js](https://github.com/enyo/dropzone)
-- Upload files to AWS S3 _serverlessly_ with AWS Lambda.
-
-## Demo
-
-![demo-gif](https://i.giphy.com/3oriNVluNp8DmKgvFS.gif)
-
 ## Quickstart
 
 This repo contains two directories: **frontend** and **lambda**. You must first
